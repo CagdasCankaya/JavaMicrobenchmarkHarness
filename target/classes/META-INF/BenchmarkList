@@ -1,0 +1,3 @@
+JMH S 24 org.example.MapBenchmark S 70 org.example.jmh_generated.MapBenchmark_testUsingForAndIterator_jmhTest S 23 testUsingForAndIterator S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 24 org.example.MapBenchmark S 71 org.example.jmh_generated.MapBenchmark_testUsingForEachAndJava8_jmhTest S 24 testUsingForEachAndJava8 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 24 org.example.MapBenchmark S 70 org.example.jmh_generated.MapBenchmark_testUsingJava8StreamAPI_jmhTest S 23 testUsingJava8StreamAPI S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
